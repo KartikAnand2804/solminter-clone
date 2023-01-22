@@ -1,5 +1,5 @@
 import "./App.css";
-import Temp from "./components/Temp";
+import Temp from "./Temp";
 import { useMemo } from "react";
 import {
   ConnectionProvider,
